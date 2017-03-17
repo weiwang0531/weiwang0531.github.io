@@ -1,4 +1,5 @@
-<h1> Welcome to Weizhou Wang's Data Science Portfolio </h1>
+<h2> Welcome to Weizhou Wang's Data Science Portfolio </h2>
+
 
 <h2> About Me! </h2>
 
