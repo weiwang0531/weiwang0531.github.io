@@ -7,5 +7,4 @@
 	<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIiAAAAJDU5ZGZhNWYxLTkwYmUtNGVhZi1iZGYwLWI4ZTg1NDJlYmNkNA.jpg" />
 </body>
 
- <a href = "https://audreychu.github.io" class = "button"><small>Visit Audrey</small> HERE </a>
 
